@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Anderson-Nunes-Franco/23cd022bf8e04f28e527488e8d667ad6/raw/fe71b87b8817de2280476b7121d8c5e67217a7a3/githubcard.svg"/>
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/Anderson-Nunes-Franco/23cd022bf8e04f28e527488e8d667ad6/raw/fe71b87b8817de2280476b7121d8c5e67217a7a3/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Anderson Franco</h1>
 
